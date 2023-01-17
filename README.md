@@ -1,5 +1,5 @@
 PowerBI dashboard project
-
+![Screenshot_20230117_224028](https://user-images.githubusercontent.com/105948044/213023263-4ccb87be-4f2b-49f7-9403-f03b1488950a.png)
 dataset : IPL_2023_Auction
 
 information about the dataset: The Indian Premier League (IPL) is a professional Twenty20 cricket league in India. It was founded in 2008 and is organized by the Board of Control for Cricket in India (BCCI). The league features ten teams representing ten different cities in India. The teams compete against each other in a round-robin format, with the top four teams qualifying for the playoffs. The winner of the IPL is awarded the IPL trophy. The league is known for its high-profile players, competitive gameplay, and large fan base.
@@ -26,5 +26,5 @@ Some of the key insights, I observed:
   Sunrisers Hyderabad: Harry Brook - ₹133M
   
 Data Source: Kaggle
-  ![Screenshot_20230117_224028](https://user-images.githubusercontent.com/105948044/213023263-4ccb87be-4f2b-49f7-9403-f03b1488950a.png)
+  
 
